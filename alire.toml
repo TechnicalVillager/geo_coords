@@ -8,4 +8,4 @@ maintainers-logins = ["TechnicalVillager"]
 
 licenses = "MIT"
 tags = ["geo", "coordinates", "latitude", "longitude", "distance", "bearing", "haversine"]
-website = ""
+website = "https://github.com/TechnicalVillager/geo_coords"
