@@ -1,6 +1,8 @@
 
 # Geographic Coordinates calculation for determining the Destination Location or Distance & Bearing
 
+[![Alire](https://img.shields.io/endpoint?url=https://alire.ada.dev/badges/geo_coords.json)](https://alire.ada.dev/crates/geo_coords.html)
+
 This project/library helps in performing the calculations between geographic coordinates using the `Ada` Programming Language:
 1. `Distance_Bearing` - Function `Distance_Bearing` returns the distance and bearing between two geographic locations (home and destination).
 2. `Destination_Location` - Function `Destination_Location` returns the destination's location from the home location by using the distance and bearing between two locations.
